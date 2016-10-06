@@ -1,0 +1,6 @@
+#iclude<iostream.h>.
+main()
+{
+count<<"hello words!";
+return 0;
+}
